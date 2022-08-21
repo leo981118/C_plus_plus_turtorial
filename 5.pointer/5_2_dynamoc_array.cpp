@@ -32,6 +32,8 @@ int main(){
 
     printf("average: %f: ", (double)sum/n);
 
+    free(pointer);
+
     system("pause");
     return 0;   
 }
