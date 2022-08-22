@@ -1,0 +1,1 @@
+when need to compile all .cpp in repository uncomment 11th line in tasks.jason, and comment 12-th line 
