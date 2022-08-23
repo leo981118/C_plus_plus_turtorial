@@ -24,7 +24,7 @@ int main(){
     cout << "*ptr: " << *ptr << endl;
     cout << "*(ptr + 1): " << *(ptr + 1) << endl;
 
-    delete ptr;
+    delete [] ptr;
 
     system("pause");
 
